@@ -15,7 +15,7 @@
 
 ⌚  **Pressing**:  "Let's hurry this up, I want to go home and have dinner"
 
-😎  **Airshow Syndrome**:  "Hold my beer and watch this!”
+😎  **Airshow Syndrome**:  "Hold my beer and watch this!"
 
 
 ## 💩 Loss of Situational Awareness
@@ -63,24 +63,24 @@
 
 ## Error Management
 
-### 🏋  Maintain Proficiency 
+### 🏋  Maintain Proficiency
 
-Failure to maintain proficiency removes a critical layer of redundancy, even though things may appear “safe enough” due to luck or technology.
+Failure to maintain proficiency removes a critical layer of redundancy, even though things may appear "safe enough" due to luck or technology.
 
 
 ### 📣  Speak Up!
 
-Don’t ignore unsafe conditions or allow yourself to be pushed into dangerous situations.
+Don't ignore unsafe conditions or allow yourself to be pushed into dangerous situations.
 
 ### ✅  Follow Protocol
 
 > Slow is Smooth and Smooth is Fast
 
-Even small changes may have unknown consequences, especially in the face of unknown external events.  
+Even small changes may have unknown consequences, especially in the face of unknown external events, and ignoring the rules when you think they don't matter can make it more likely that you will forget something when they do.
 
 ### 🦗  Minimize Distraction
 
-Just "Being careful" is a overused cliche. Nobody is perfectly reliable or capable. 
+Just "Being careful" is a overused cliche. Nobody is perfectly reliable or capable.
 
 What you can  do is remove distractions, to maximize the ability you do have. Do not leave distractions and hazards around, and plan critical tasks for times when you are well rested, not dehydrated, hungry, angry, or otherwise impaired.
 
@@ -92,14 +92,19 @@ Treat potential problems seriously even if you do not know for certain they will
 
 ### 👁  Maintain Situational Awareness
 
-Especially with hands-off and automated processes, it is very easy to become complacent.  Things that are hard to observe, or which cannot be inspected once finished can also be sources of trouble. Who hasn’t wondered if they left the oven on?
+Especially with hands-off and automated processes, it is very easy to become complacent.  Things that are hard to observe, or which cannot be inspected once finished can also be sources of trouble. Who hasn't wondered if they left the oven on?
 
 ### 🧑‍🏭️  Effectively use Resources
 
-Do not show off by doing things “the hard way”.  Use the appropriate tools and protective equipment(Even if you have to stop and get them!), get a second pair of eyes on important tasks, and set timers for things that may be forgotten.
+Do not show off by doing things "the hard way".  Use the appropriate tools and protective equipment(Even if you have to stop and get them!), get a second pair of eyes on important tasks, and set timers for things that may be forgotten.
 
 ### 🛡 Multiple Layers of Safety
 
 > Two is one, one is none, and three is a good start
 
-Avoid relying on any one person, device, or method whenever possible, and always have a backup plan.  Redundant plans that are very different from the primary are less likely to be affected by the same causes of failure at the same time.
+Avoid relying on any one device or method whenever possible. Avoid situations where one mistake
+will cause major problems, even if you think "nobody would ever make that mistake".  
+
+Even the experts can press the wrong button or misidentify a mushroom, and there are many shop teachers who have lost a finger.
+
+Backup plans that are very different from the primary are less likely to be affected by the same causes of failure at the same time.
